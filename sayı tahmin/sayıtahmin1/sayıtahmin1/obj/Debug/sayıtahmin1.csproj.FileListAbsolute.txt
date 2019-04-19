@@ -1,0 +1,9 @@
+C:\Users\Tenten\Desktop\visiual studio\sayı tahmin\sayıtahmin1\sayıtahmin1\bin\Debug\sayıtahmin1.exe.config
+C:\Users\Tenten\Desktop\visiual studio\sayı tahmin\sayıtahmin1\sayıtahmin1\bin\Debug\sayıtahmin1.exe
+C:\Users\Tenten\Desktop\visiual studio\sayı tahmin\sayıtahmin1\sayıtahmin1\bin\Debug\sayıtahmin1.pdb
+C:\Users\Tenten\Desktop\visiual studio\sayı tahmin\sayıtahmin1\sayıtahmin1\obj\Debug\sayıtahmin1.csprojAssemblyReference.cache
+C:\Users\Tenten\Desktop\visiual studio\sayı tahmin\sayıtahmin1\sayıtahmin1\obj\Debug\sayıtahmin1.Properties.Resources.resources
+C:\Users\Tenten\Desktop\visiual studio\sayı tahmin\sayıtahmin1\sayıtahmin1\obj\Debug\sayıtahmin1.csproj.GenerateResource.cache
+C:\Users\Tenten\Desktop\visiual studio\sayı tahmin\sayıtahmin1\sayıtahmin1\obj\Debug\sayıtahmin1.csproj.CoreCompileInputs.cache
+C:\Users\Tenten\Desktop\visiual studio\sayı tahmin\sayıtahmin1\sayıtahmin1\obj\Debug\sayıtahmin1.exe
+C:\Users\Tenten\Desktop\visiual studio\sayı tahmin\sayıtahmin1\sayıtahmin1\obj\Debug\sayıtahmin1.pdb
